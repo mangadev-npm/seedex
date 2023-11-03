@@ -1,0 +1,1 @@
+export const emailDomains = ['gmail', 'yahoo', 'outlook', 'live', 'hotmail'];
