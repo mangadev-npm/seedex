@@ -1,6 +1,6 @@
-import { firstNames } from './dictionary/firstNames';
-import { lastNames } from './dictionary/lastNames';
-import { emailDomains } from './dictionary/emailDomains';
+import { firstNames } from './dictionary/firstNames.js';
+import { lastNames } from './dictionary/lastNames.js';
+import { emailDomains } from './dictionary/emailDomains.js';
 
 const getRandomInt = (max) => Math.floor(Math.random() * max);
 
