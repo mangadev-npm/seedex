@@ -1,9 +1,9 @@
 {
   "name": "@mangadev-npm/seedex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A NPM Package for generating random values.",
   "main": "index.js",
-  "exports": "./index.mjs",
+  "module": "index.mjs",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
